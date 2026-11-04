@@ -4,7 +4,7 @@ Source: crackmes.one, "crazy_bg's Keygen Me!" (the exe is not included here)
 
 ## File info
 - Format: PE64 (Windows, 64-bit), AMD64
-- Compiler: see Detect It Easy result
+- Compiler: Keygen.exe
 - Packed: no (Detect It Easy reported not packed)
 - Tools: Detect It Easy, Ghidra, Python
 - Method: static analysis only, the program was never run
